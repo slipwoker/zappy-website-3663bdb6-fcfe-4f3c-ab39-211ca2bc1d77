@@ -1,0 +1,88 @@
+# בינגו בדים — Generative Engine Optimization Map
+
+> A fabric and textile business focused on selling fabrics. The specific niche, style, and target audience are not yet defined — could range from a boutique fabric shop for crafters and designers to a wholesale textile supplier.
+
+---
+
+## Pages
+
+### בית
+https://-3663bdb6.zappy5.app
+ברוכים הבאים לבינגו בדים, היעד המושלם למכירת בדים מכל הסוגים. בין אם אתם מעצבים, תופרים או יוצרים – אנחנו כאן עם מבחר עשיר, השראה וייעוץ מקצועי. התחילו לגלול עכשיו ולגלות את הבד שיהפוך את הפרויקט שלכם ליצירת מופת.
+
+### שימושים והדרכה לבדים
+https://-3663bdb6.zappy5.app/fabric-uses-guidance
+לא בטוחים איזה בד מתאים לפרויקט שלכם? במדריך השימושים של בינגו בדים תמצאו טיפים, רעיונות והסברים מפורטים שיעזרו לכם לבחור נכון. היכנסו עכשיו ותנו לבדים שלכם לדבר – מהשראה ועד ביצוע מושלם.
+
+### אודות
+https://-3663bdb6.zappy5.app/about
+בינגו בדים נולדה מאהבה אמיתית לטקסטיל ומחויבות לאיכות ללא פשרות. אנחנו כאן כדי לספק לכם בדים מעולים, שירות אישי ויחס שמרגיש כמו משפחה. קראו עוד על הסיפור שלנו והצטרפו למסע הצבעוני של יצירה וסטייל.
+
+### צור קשר
+https://-3663bdb6.zappy5.app/contact
+יש שאלה על בד מסוים? צריכים ייעוץ אישי או רוצים לבצע הזמנה מיוחדת? צוות בינגו בדים כאן בשבילכם. מלאו את הטופס או התקשרו עכשיו – נשמח לעזור לכם למצוא את הבד המושלם שיהפוך כל חלום עיצובי למציאות מוחשית.
+
+### Products
+https://-3663bdb6.zappy5.app/products
+המוצרים שלנו - בינגו בדים
+
+### Product Detail
+https://-3663bdb6.zappy5.app/product/:slug
+פרטי המוצר - בינגו בדים
+
+### Category
+https://-3663bdb6.zappy5.app/category/:slug
+מוצרים - בינגו בדים
+
+### תודה שפניתם אלינו
+https://-3663bdb6.zappy5.app/thank-you
+בינגו בדים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3663bdb6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3663bdb6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3663bdb6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בינגו בדים
+A fabric and textile business focused on selling fabrics. The specific niche, style, and target audience are not yet defined — could range from a boutique fabric shop for crafters and designers to a wholesale textile supplier.
+
+## Services/Products
+- מכירת בדים
+
+## Target Audience
+- מעצבי אופנה
+- מעצבי פנים
+- בדים לתפירה
+- בדים לשמלות ערב
+
+## Industry
+Fabric & Textile Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3663bdb6.zappy5.app/sitemap.xml
+- Robots: https://-3663bdb6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3663bdb6.zappy5.app/llms-full.txt
+- Products (JSON): https://-3663bdb6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-3663bdb6.zappy5.app/product-feed.xml
